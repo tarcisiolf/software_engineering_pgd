@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "advanced_programming/lib/postgresql-42.7.2.jar",
+        "advanced_programming/lib/postgresql-42.6.1.jar"
+    ]
+}
