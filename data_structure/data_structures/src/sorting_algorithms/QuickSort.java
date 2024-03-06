@@ -1,3 +1,5 @@
+package sorting_algorithms;
+
 public class QuickSort {
     public static void qs(int p, int q, int vector[]) {
         int x;

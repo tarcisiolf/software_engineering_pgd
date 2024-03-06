@@ -1,3 +1,5 @@
+package sorting_algorithms;
+
 public class MergeSort {
     public static void ms(int[] a, int begin, int end) {
         if (begin == end) {

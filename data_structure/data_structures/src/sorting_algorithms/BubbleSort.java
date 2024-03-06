@@ -1,3 +1,5 @@
+package sorting_algorithms;
+
 public class BubbleSort {
 
     public static int[] Bubble(int numbers[]) {
